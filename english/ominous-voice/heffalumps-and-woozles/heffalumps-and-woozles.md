@@ -38,3 +38,5 @@ They're in they're out they're all about
 They're far they're near they're gone they're here  
 They're quick and slick, they're insincere  
 Beware, beware, beware, beware, beware....  
+
+Click [here](https://github.com/ldough84/create-your-own-adventure/blob/master/english/burn-down-the-house/house-burn.md) to continue your journey
